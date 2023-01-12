@@ -1,0 +1,26 @@
+{
+  "name": "mok-ecosystem",
+  "version": "4.3.6",
+  "type": "module",
+  "description": "Data validation and transformation system.",
+  "main": "dist/index.js",
+  "umd:main": "dist/index.umd.js",
+  "module": "dist/index.mjs",
+  "source": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "microbundle"
+  },
+  "keywords": [
+    "validation",
+    "test"
+  ],
+  "author": "Angelo Velandia <velandia_angelo@outlook.com> (https://github.com/angelovelandia/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1",
+    "microbundle": "^0.15.1"
+  }
+}
