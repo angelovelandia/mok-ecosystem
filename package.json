@@ -1,6 +1,6 @@
 {
   "name": "mok-ecosystem",
-  "version": "5.3.6",
+  "version": "7.3.6",
   "type": "module",
   "description": "Data validation and transformation system.",
   "main": "dist/index.js",
