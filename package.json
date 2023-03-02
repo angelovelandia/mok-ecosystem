@@ -1,6 +1,6 @@
 {
   "name": "mok-ecosystem",
-  "version": "8.5.6",
+  "version": "8.6.6",
   "type": "module",
   "description": "Data validation and transformation system.",
   "main": "dist/index.js",
@@ -17,6 +17,7 @@
   ],
   "author": "Angelo Velandia <velandia_angelo@outlook.com> (https://github.com/angelovelandia/)",
   "license": "MIT",
+  "repository": "angelovelandia/mok-ecosystem",
   "devDependencies": {
     "@babel/preset-env": "^7.20.2",
     "babel-jest": "^29.3.1",
