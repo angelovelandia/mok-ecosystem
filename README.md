@@ -16,6 +16,19 @@ yarn add mok-ecosystem
 
 Events onChange
 
+formatCpf - Returns the number of CPF Formatted and optionally sent to your string function handleChange(Status Handler).
+
+```javascript
+onChange={e => formatCpf(e.target.value, handleChange)}
+```
+
+```javascript
+onChange={e => formatCpf(e.target.value, handleChange)}
+
+let cpfFormat = formatCpf(e.target.value);
+console.log(cpfFormat)
+```
+
 formatCpfChange - Returns the number of CPF Formatted and is sent to its handleChange(Status Handler) string function.
 
 ```javascript
