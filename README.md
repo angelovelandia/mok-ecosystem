@@ -40,3 +40,6 @@ In process and under construction...
 # License
 
 mok-ecosystem is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+⌨️ con ❤️ por [angelovelandia](https://github.com/angelovelandia) 😊
