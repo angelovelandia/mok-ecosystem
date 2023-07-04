@@ -1,6 +1,6 @@
 {
   "name": "mok-ecosystem",
-  "version": "9.0.0",
+  "version": "10.4.0",
   "type": "module",
   "description": "Data validation and transformation system.",
   "main": "dist/index.js",
@@ -12,6 +12,7 @@
   "source": "src/index.js",
   "scripts": {
     "test": "jest",
+    "prebuild": "rm -rf dist",
     "build": "microbundle"
   },
   "keywords": [
